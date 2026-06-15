@@ -1,0 +1,27 @@
+{
+  "user_name": "Prajwal",
+  "preferences": {
+    "favorite_apps": [
+      "notepad++",
+      "vs code",
+      "chrome",
+      "blender",
+      "discord"
+    ],
+    "favorite_websites": [
+      "youtube",
+      "github",
+      "google"
+    ],
+    "theme": "dark"
+  },
+  "facts": [
+    "User's name is Prajwal.",
+    "User is a programmer developing an advanced voice assistant.",
+    "User prefers a dark visual theme.",
+    "User likes sleek, premium glassmorphic UI designs.",
+    "User noted: my favorite game is chess"
+  ],
+  "reminders": [],
+  "notes": []
+}

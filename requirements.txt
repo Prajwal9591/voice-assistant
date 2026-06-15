@@ -1,0 +1,24 @@
+# J.A.R.V.I.S. — Full Dependency List
+# Install with: python -m pip install -r requirements.txt
+
+# Voice & Speech
+speechrecognition
+pyttsx3
+
+# Automation helpers
+pywhatkit
+pyjokes
+wikipedia
+pillow
+
+# AI & LLM (modern SDK — replaces deprecated google-generativeai)
+google-genai
+
+# Local RAG semantic search
+sentence-transformers
+
+# Secure .env loading
+python-dotenv
+
+# GUI
+customtkinter
